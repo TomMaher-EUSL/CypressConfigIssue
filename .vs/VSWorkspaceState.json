@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\videos"
+  ],
+  "SelectedNode": "\\cypress.config.ts",
+  "PreviewInSolutionExplorer": false
+}
